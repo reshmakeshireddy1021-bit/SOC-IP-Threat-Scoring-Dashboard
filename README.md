@@ -63,6 +63,16 @@ This project demonstrates how a SOC analyst can:
 - Improve incident response time
 
 ---
+---
+
+## 🧠 Skills Demonstrated
+
+- Log parsing and data extraction  
+- Threat intelligence enrichment  
+- Risk scoring algorithm development  
+- SOC workflow simulation  
+- Incident prioritization modeling  
+- Cybersecurity data analysis using Python  
 
 ## 🚀 Future Improvements
 
@@ -85,3 +95,4 @@ Focused on SOC Engineering, Threat Intelligence, and Security Analytics
 ## 📎 Disclaimer
 
 This project is for educational and portfolio purposes only.
+
