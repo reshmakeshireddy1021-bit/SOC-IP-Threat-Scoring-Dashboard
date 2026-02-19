@@ -1,0 +1,11 @@
+ip,threat_score,severity,reason
+218.76.139.20,90,Critical,High-risk IP (multiple malicious indicators)
+65.68.235.27,85,Critical,High-risk IP (multiple malicious indicators)
+207.203.80.15,75,High,Suspicious behavior detected
+211.141.93.88,60,Medium,Suspicious behavior detected
+208.51.151.210,50,Medium,Moderate anomaly score
+147.31.138.75,45,Medium,Moderate anomaly score
+24.147.151.74,30,Low,Low confidence / background noise
+63.13.186.196,15,Very Low,Low confidence / background noise
+216.127.124.16,10,Very Low,Low confidence / background noise
+222.166.160.184,5,Very Low,Low confidence / background noise
