@@ -7,6 +7,14 @@ The SOC IP Threat Scoring Dashboard is a cybersecurity analytics project designe
 This project analyzes log data and integrates threat intelligence feeds to calculate risk scores for IP addresses, enabling faster threat prioritization and decision-making.
 
 ---
+## Skills Demonstrated
+
+- Security log analysis
+- Threat intelligence enrichment
+- Risk scoring model development
+- Data visualization for security analytics
+- Python data analysis (Pandas, Matplotlib)
+- SOC threat prioritization workflow
 
 ## 🎯 Objectives
 
@@ -105,6 +113,7 @@ Focused on SOC Engineering, Threat Intelligence, and Security Analytics
 ## 📎 Disclaimer
 
 This project is for educational and portfolio purposes only.
+
 
 
 
