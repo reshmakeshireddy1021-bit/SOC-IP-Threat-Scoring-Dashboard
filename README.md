@@ -92,7 +92,7 @@ This project demonstrates how a SOC analyst can:
 ![Risk Chart](screenshots/risk_chart.png)
 
 ### Additional Risk Analysis
-![Risk Chart 2](screenshots/risk_chart 2.png)
+![Risk Chart 2](screenshots/risk_chart%202.png)
 
 ## 👩‍💻 Author
 
@@ -105,5 +105,6 @@ Focused on SOC Engineering, Threat Intelligence, and Security Analytics
 ## 📎 Disclaimer
 
 This project is for educational and portfolio purposes only.
+
 
 
