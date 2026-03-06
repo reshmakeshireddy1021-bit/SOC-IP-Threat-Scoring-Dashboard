@@ -83,6 +83,16 @@ This project demonstrates how a SOC analyst can:
 - Add anomaly detection using ML
 
 ---
+## Project Output
+
+### Threat Score Distribution
+![Threat Score](screenshots/threat_score_output.png)
+
+### Risk Score Visualization
+![Risk Chart](screenshots/risk_chart.png)
+
+### Additional Risk Analysis
+![Risk Chart 2](screenshots/risk_chart 2.png)
 
 ## 👩‍💻 Author
 
@@ -95,4 +105,5 @@ Focused on SOC Engineering, Threat Intelligence, and Security Analytics
 ## 📎 Disclaimer
 
 This project is for educational and portfolio purposes only.
+
 
