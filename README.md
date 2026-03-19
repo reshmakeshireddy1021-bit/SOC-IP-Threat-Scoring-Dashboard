@@ -102,12 +102,18 @@ This project demonstrates how a SOC analyst can:
 ### Additional Risk Analysis
 ![Risk Chart 2](screenshots/risk_chart%202.png)
 
-## 👩‍💻 Author
+---
 
-Reshma Keshireddy  
-Cybersecurity & Data Analytics Graduate Student  
-Focused on SOC Engineering, Threat Intelligence, and Security Analytics
+## 👤 Author
 
+**Reshma Keshireddy** — 
+*Cybersecurity & Data Analytics*
+
+LinkedIn: https://linkedin.com/in/reshma-keshireddy-1283b91b6
+
+GitHub: https://github.com/reshmakeshireddy1021-bit
+
+---
 ---
 
 ## 📎 Disclaimer
