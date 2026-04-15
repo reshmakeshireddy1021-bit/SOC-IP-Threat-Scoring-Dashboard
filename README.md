@@ -1,6 +1,23 @@
 # 🔐 SOC IP Threat Scoring & Security Analytics Dashboard
 
-> **Turning raw security logs into actionable threat intelligence — the way real SOC analysts work.**
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&lines=SOC+IP+Threat+Scoring+Dashboard;Security+Analytics+%7C+Python+%7C+Plotly;Turning+Logs+into+Actionable+Threat+Intelligence)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Security](https://img.shields.io/badge/Security_Analytics-red?style=for-the-badge&logo=shield&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-darkred?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
@@ -114,11 +131,15 @@ SOC-IP-Threat-Scoring-Dashboard/
 
 ## 👤 Author
 
-**Reshma Keshireddy**
-*Data Analyst | Business Intelligence | Cybersecurity Analytics*
+**Reshma Keshireddy** — Cybersecurity & Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/reshma-keshireddy-1283b91b6)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/reshmakeshireddy1021-bit)
+LinkedIn: https://linkedin.com/in/reshma-keshireddy-1283b91b6
+
+GitHub: https://github.com/reshmakeshireddy1021-bit
+
+---
+
+> *"**In security, speed of detection means nothing without speed of prioritization.**"*
 
 ---
 
